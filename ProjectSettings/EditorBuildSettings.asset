@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/OutdoorsScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: f857b17e67ca88f429202c49afdb092b
+  - enabled: 1
+    path: Assets/Scenes/BallDropGame.unity
     guid: 8124e5870f4fd4c779e7a5f994e84ad1
   m_configObjects: {}
